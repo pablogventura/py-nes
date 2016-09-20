@@ -2,4 +2,4 @@
 emulador de nes en python
 
 hay un monton de informacion en:
-https://github.com/pablogventura/py-nes
+https://wiki.nesdev.com/w/index.php/Nesdev#NES
